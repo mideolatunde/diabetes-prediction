@@ -100,12 +100,16 @@ Models were evaluated using:
 - HbA1c level (Hemoglobin A1c) and Blood Glucose level are the strongest predictors of diabetes.  
 ![3D_Scatter_plot](diabetes_images/3D%20SCATTER%20PLOT.jpg)
 
+Blue - Non-Diabetic.  
+Yellow - Diabetic.    
+
+
 - Patients with diabetes have a significantly higher BMI compared to non-diabetic patients.   
 
 - Age is weakly correlated with diabetes, but prevalence is higher among older individuals.    
 
 - Patients with a history of smoking show a higher prevalence of diabetes, suggesting an association between smoking status and diabetes occurrence.   
-![Smoking]([diabetes_images/smoking%20status%20vs%20diabetes.png])
+![Smoking](diabetes_images/smoking%20status%20vs%20diabetes.png]
 
 - Heart disease and hypertension are not statistically associated with diabetes prediction. 
 

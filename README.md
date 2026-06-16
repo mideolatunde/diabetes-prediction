@@ -93,7 +93,7 @@ Models were evaluated using:
 
 
 ## 📈 Exploratory Data Analysis  
-![Percentage_of_Diabetic_to_Non-Diabetic](diabetes_images/number of diabetic and non diabetic.png)  
+![Percentage_of_Diabetic_to_Non-Diabetic](diabetes_images/number%20of%20diabetic%20and%20non%20diabetic.png)  
 
 - There are more female diabetes patients than males.
 

@@ -109,7 +109,7 @@ Yellow - Diabetic.
 - Age is weakly correlated with diabetes, but prevalence is higher among older individuals.    
 
 - Patients with a history of smoking show a higher prevalence of diabetes, suggesting an association between smoking status and diabetes occurrence.   
-![Smoking](diabetes_images/smoking%20status%20vs%20diabetes.png]
+![Smoking](diabetes_images/smoking%20status%20vs%20diabetes.png)
 
 - Heart disease and hypertension are not statistically associated with diabetes prediction. 
 

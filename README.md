@@ -1,4 +1,4 @@
-#  Avocado Price Prediction & Type Classification
+#  Diabetes Probability Prediction
 
 ## &#128279; Project Overview
 This project applies supervised machine learning techniques to predict the probability that a patient will be diagnosed with diabetes.

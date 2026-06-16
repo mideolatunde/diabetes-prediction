@@ -98,14 +98,14 @@ Models were evaluated using:
 - There are more female diabetes patients than males.
 
 - HbA1c level (Hemoglobin A1c) and Blood Glucose level are the strongest predictors of diabetes.  
-![3D_Scatter_plot](diabetes_images/3D SCATTER PLOT.jpg)
+![3D_Scatter_plot](diabetes_images/3D%20SCATTER%20PLOT.jpg)
 
 - Patients with diabetes have a significantly higher BMI compared to non-diabetic patients.   
 
 - Age is weakly correlated with diabetes, but prevalence is higher among older individuals.    
 
 - Patients with a history of smoking show a higher prevalence of diabetes, suggesting an association between smoking status and diabetes occurrence.   
-![Smoking]([diabetes_images/smoking status vs diabetes.png])
+![Smoking]([diabetes_images/smoking%20status%20vs%20diabetes.png])
 
 - Heart disease and hypertension are not statistically associated with diabetes prediction. 
 
@@ -128,7 +128,7 @@ Best and used to predict on the test data = Random Forest tuned model.
 - 17534 records were correctly predicted as Non-Diabetes patients.    
 - 1144 records were correctly predicted as Diabetes patients. All actual diabetes patients records were correctly predicted.  
 - 552 records were incorrectly predicted as Diabetes patients.   
-![Confusion_Matrix](diabetes_images/confusion matrix for test data.png)
+![Confusion_Matrix](diabetes_images/confusion%20matrix%20for%20test%20data.png)
 
 ## &#127919; Real World Application  
 - Healthcare organizations should consider integrating machine learning-based risk assessment tools into routine screening programs to support early detection, timely intervention, and improved management of diabetes.
